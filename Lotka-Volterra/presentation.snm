@@ -1,0 +1,26 @@
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:intial_example}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq:general_lotka_volterra_equations}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq:2d_simple_model}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:numerical_solutions_2d_simple_model}{12}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:phase_plot_2d_simple_model}{13}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq: 2d_pesticide_model}{17}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:phase_plot_2d_pest_model_1}{18}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq:competitive_lotka_volterra_equations}{22}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:solution_2d_competitive_model}{28}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:phase_plots_2d_competitive_model}{29}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {fig:paramecium}{30}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq:lotka_volterra_with_seasons}{32}
+\defcounter {refsection}{0}\relax 
+\beamer@slide {eq:lotka_volterra_with_delay}{33}

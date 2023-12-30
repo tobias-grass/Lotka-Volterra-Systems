@@ -1,0 +1,26 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introductory Example}{2}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{The General Lotka-Volterra Equations}{4}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Simple Predator-Prey Model for $n=2$}{7}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsubsectionintoc {2}{1}{1}{Simulations}{12}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsubsectionintoc {2}{1}{2}{Theoretical Results}{14}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsubsectionintoc {2}{1}{3}{Paradox of Pesticides}{17}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Competitive Lotka-Volterra Model}{22}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsubsectionintoc {2}{2}{1}{Simulations}{28}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsubsectionintoc {2}{2}{2}{Gause's Law (CEP)}{30}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Extended Models}{31}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Seasonal Variation}{32}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Delay Kernels}{33}{0}{3}

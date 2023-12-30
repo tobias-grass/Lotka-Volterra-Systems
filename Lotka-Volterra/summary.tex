@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+
+
+%-------Pakete-------%
+
+%Rechtschreibung & Layout
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{booktabs,multirow}
+\usepackage{csquotes}
+\usepackage{icomma}
+\usepackage[singlespacing]{setspace}
+\usepackage{caption}
+\usepackage{subcaption}
+
+%Pakete: Grafiken & Anpassung
+\usepackage{graphicx}
+	\graphicspath{{Grafiken/}}
+\usepackage{wrapfig}
+\usepackage{wallpaper}
+\usepackage{tikz}
+\usepackage{witharrows}
+\usepackage{tcolorbox}
+\tcbuselibrary{most}
+\usepackage{lipsum}
+
+\newtcolorbox{aufgabe}{breakable,colframe=cyan,colback=cyan!20}
+
+%Pakete: Inhaltsverzeichnis & Referenzierung
+\usepackage[natbib,abbreviate=true,doi=false,style=numeric-comp,giveninits=true,sorting=none]{biblatex}
+	\addbibresource{MyBibliography.bib}
+\usepackage{color}
+\usepackage{hyperref}
+%\usepackage[all]{hypcap}
+\hypersetup
+{
+    colorlinks=false, % make the links colored
+    linkcolor=blue, % color TOC links in blue
+    urlcolor=red, % color URLs in red
+    linktoc=section % 'all' will create links for everything in the TOC
+}
+
+%Pakete: Mathematik
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage[locale = DE,space-before-unit=true,per-mode = symbol]{siunitx}
+\usepackage{nicematrix}
+\NiceMatrixOptions{
+code-for-first-row = \color{blue!50} ,
+code-for-first-col = \color{blue!50} ,
+}
+
+\newtheorem{definition}{Definition}[subsection]
+\newtheorem{example}{Beispiel}[subsection]
+\newtheorem{theorem}{Theorem}[subsection]
+\newtheorem{lemma}{Lemma}[subsection]
+
+\setcounter{biburllcpenalty}{9000}% Kleinbuchstaben
+\setcounter{biburlucpenalty}{9000}% Großbuchstaben
+
+\begin{document}
+
+\section{Introductory Example}
+
+Explanation of the phenomenon and warm up.
+
+\section{The General Lotka-Volterra Equations}
+\subsection{Simple Predator-Prey Model $(n = 2)$}
+
+\begin{itemize}
+    \item Derivation of the 2-dimensional predator-prey model as a special case of the general system of equations
+    \item Implications for the environment and ecosystem
+    \item Numerical simulations and theoretical results regarding the predator-prey model, including stability analysis, slope field, phase space
+    \item predator-pest model as a consequence from the independence of the population mean from the initial value. Application time is crucial to decrease the size of the pest successfully.
+    \item Methods: Python (FORTRAN)
+\end{itemize}
+
+\subsection{Competitive System}
+\begin{itemize}
+    \item Derivation of the Lotka-Volterra competition model as another special case of the general system of equations
+    \item Implications for the environment and ecosystem (logistic growth)
+    \item Numerical classification of the four cases in two dimensions; stability analysis, slope field, phase space
+    \item Competitive exclusion principle as a consequence of the classification of the four different cases
+    \item Methods: Python (FORTRAN)
+\end{itemize}
+
+\section{Extended Models}
+
+Short summary of the problems of the general system and ways to refine the equations by adding more terms for different ecological effects, such as:
+\begin{itemize}
+    \item Seasons
+    \item Interaction rates changing with respect to the past (delay kernels)
+\end{itemize}
+
+
+
+\newpage
+\nocite{*}
+\printbibliography
+\end{document}

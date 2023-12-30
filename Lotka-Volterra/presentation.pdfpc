@@ -1,0 +1,69 @@
+[notes]
+### 1
+Greeting
+Introduction
+### 3
+Species: Canadian Lynx & Snowshoe Hare
+Hudson Bay Company: Pelt Trading
+Lynx mainly eat hare about 2 every three days (abundance)
+Hare population stays between 1k - 70k
+Lynx population stays between 3k - 60k
+Phase shift
+### 5
+Intrinsic growth/decay rate: $r_i$
+Interaction coefficients: $a_{ij}$
+Three cases: mutualistic, competitive, predator-prey dynamics
+Immigration is not possible in this system since if $x(0)>0 \implies x(t)>0$ for all $t$
+Simple: No intraspecific interaction between members of the same population
+### 5
+Intrinsic growth/decay rate: $r_i$
+Interaction coefficients: $a_{ij}$
+Three cases: mutualistic, competitive, predator-prey dynamics
+Immigration is not possible in this system since if $x(0)>0 \implies x(t)>0$ for all $t$
+Simple: No intraspecific interaction between members of the same population
+### 6
+Alfred James Lotka (1880 - 1949)
+Vito Volterra (1860 - 1940)
+Both studied pred-prey interactions during 1920-1926; conclusion: periodic oscillation
+Volterra: $n$-species model with respect to the past (delay kernels)
+$x_1$ prey
+$x_2$: predator
+### 8
+Periodicity
+Phase shift
+### 9
+Vectors are normalized (same length)
+Periodicity: closed trajectory around stable center $\Bar {s}_1$
+### 10
+$\Bar {s}_0$ is unstable saddle point by linearization (Theorem of Hartman-Grobman)
+$\Bar {s}_1$ is stable center by Lyapunov’s method
+phase shift: explains phase shift in hare/lynx population dynamics
+population mean: independent of intial values -> paradox of pesticide (shifting initial value)
+### 10
+$\Bar {s}_0$ is unstable saddle point by linearization (Theorem of Hartman-Grobman)
+$\Bar {s}_1$ is stable center by Lyapunov’s method
+phase shift: explains phase shift in hare/lynx population dynamics
+population mean: independent of intial values -> paradox of pesticide (shifting initial value)
+### 10
+$\Bar {s}_0$ is unstable saddle point by linearization (Theorem of Hartman-Grobman)
+$\Bar {s}_1$ is stable center by Lyapunov’s method
+phase shift: explains phase shift in hare/lynx population dynamics
+population mean: independent of intial values -> paradox of pesticide (shifting initial value)
+### 11
+Phenomen of resurgence of pest was described many times in experiments
+Apple orchards: flying instect (pest)
+Extension: by approximation of delta function, modeling the effect of the pesticide
+### 13
+adding intraspecific competition: rivalry for the same food source
+limitation of the life sustaining resources
+### 13
+adding intraspecific competition: rivalry for the same food source
+limitation of the life sustaining resources
+### 15
+Bistability: no stable point in the interior
+### 16
+Classification: linearization (Hartman-Grobman Theorem)
+### 17
+obeserved in parasitic fungi, paramecium, birds
+not fully explained: biodiversity
+Problems: lack of spatial component, competition-colonization trade off, adaptive radiation (darwin's finches)
