@@ -1,0 +1,6 @@
+https://jckantor.github.io/CBE30338/02.05-Hare-and-Lynx-Population-Dynamics.html (Introductory Example)
+
+https://www.sciencedirect.com/topics/earth-and-planetary-sciences/lotka-volterra-model (Extended Models)
+
+https://www.mdpi.com/2309-608X/7/5/385 (Competitive Model: CEP)
+https://sites.math.rutgers.edu/courses/244/BySemester/244-f06/speer/wangersky.pdf (Competitive Model: Theory vs Empiry)
